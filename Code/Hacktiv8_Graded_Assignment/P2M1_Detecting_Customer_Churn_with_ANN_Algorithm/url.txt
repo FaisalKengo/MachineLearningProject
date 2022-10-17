@@ -1,0 +1,2 @@
+Backend: https://backend-tfserving-p2ml1fk.herokuapp.com/
+Frontend: https://p2ml1-faisalkengo.herokuapp.com/
